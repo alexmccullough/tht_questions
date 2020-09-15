@@ -1,0 +1,46 @@
+{
+    "settings":
+        {
+            "thankYouMessage":
+                "This is last screen thank You message",
+            "goodInsightsTitle":
+                "Chances of having a good Day 🥳",
+            "badInsightsTitle":
+                "Chances of having a bad day 😭"
+        },
+    "questions":
+        [
+            {
+
+                "active": true,
+                "que": "Did you exercise today?",
+                "queId": "excercised",
+                "insightsTxt": "Excercised"
+            }, {
+            "active": true,
+            "que": "Did you sleep well last night?",
+            "queId": "sleepWell",
+                "insightsTxt": "Had a good Sleep"
+        }, {
+            "active": true,
+            "que": "Did you drink alcohol?",
+            "queId": "hadAlcohol",
+            "insightsTxt": "Consumed Alcohol"
+        }, {
+            "active": true,
+            "que": "Did you eat well?",
+            "queId": "eatWell",
+            "insightsTxt": "Ate healty"
+        }, {
+            "active": true,
+            "que": "Were you productive?",
+            "queId": "productive",
+            "insightsTxt": "Had productive day"
+        }, {
+            "active": true,
+            "que": "Did you spend time with friends?",
+            "queId": "outWithFriends",
+            "insightsTxt": "Went out with Friends"
+        }
+        ]
+}
